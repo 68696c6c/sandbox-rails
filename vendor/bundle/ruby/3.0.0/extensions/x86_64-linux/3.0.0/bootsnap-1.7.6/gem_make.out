@@ -1,0 +1,15 @@
+current directory: /home/aaron/Code/sandbox-rails/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.7.6/ext/bootsnap
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 -r ./siteconf20210728-75775-uk1fs3.rb extconf.rb
+creating Makefile
+
+current directory: /home/aaron/Code/sandbox-rails/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.7.6/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /home/aaron/Code/sandbox-rails/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.7.6/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/aaron/Code/sandbox-rails/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.7.6/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210728-75775-cbbrqp/bootsnap
